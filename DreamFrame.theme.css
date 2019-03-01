@@ -4,7 +4,7 @@
 @import url("https://raw.githack.com/CorbsEditor/Dream-Frame/master/RAW/DreamFrameRAW.theme.css");
 :root {
     /* Background */
-    --custombackground: url(https://source.unsplash.com/random); /* Change the background */
+    --custombackground: url(https://www.google.com/search?safe=active&hl=en-SE&q=kanye+west+wallpaper+reddit&tbm=isch&tbs=simg:CAQSlgEJ4fmz4SkyOlcaigELEKjU2AQaBggUCAAIAwwLELCMpwgaXwpdCAMSJYIYOOgVeDesGcEMrRm5DpML-CzLLcot6yzeKNYovjf9LbUtiiQaMKVlcBHRzFP_15cywMQ_1kTY8UUcHARzOLNa23eUk0rc4pliAL_1VmlvNYMVa7WrhLFZSAEDAsQjq7-CBoKCggIARIE9kq99Aw&sa=X&ved=0ahUKEwiI1IjEsOHgAhUB86YKHQBIA7EQwg4IKygA&biw=1920&bih=937#imgrc=vPL_2jOK9vaHVM:); /* Change the background */
     --blur: 0px !important; /* Adjust the amount of blur on the background */
     --opacitybg: 0.5 !important; /* Change the transparency of the background. This is what controls the black overlay that is over the background */
     --opacityDiscord: 0.7 !important; /* Try removing your custom background and enable Transparency in BandagedBD settings. Also adjust opacitybg to 0 */
